@@ -1,4 +1,4 @@
-## Al Fattah Suyadi's data science and ML portfolio project
+## Al Fattah Suyadi's Data Analytic Projects
 
 Based on a Minimal Jekyll theme for GitHub Pages [1].
 
