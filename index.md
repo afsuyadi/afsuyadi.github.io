@@ -8,7 +8,11 @@ During my AI-program internship in Cognizant, the client has concerns regarding 
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
 
+<img src="images/Stock Procurement Optimization.png" />
+
+
 [View code on Colab](https://colab.research.google.com/drive/1W340t4khS_h5PkLPbbk4xhF-xZJk5Fwo)
+
 
 ---
 
