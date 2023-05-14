@@ -1,14 +1,14 @@
-## Selected projects in data science, machine learning and NLP
+## Projects in Data Analytics
 
 ---
 
-### Deep NLP for hate speech detection
+### Stock Procurement Optimization
 
-Hate speech detection is the automated task of determining whether a piece of text contains hateful content. In this project, I built a classifier using PyTorch to fine-tune a BERT model.
+During my AI-program internship in Cognizant, the client has concerns regarding how to safely procure their stock in order to fulfill the customers' requirement on-time. The client sends several dataset from IoT and sales department. Which factors affect stock procurement the most?
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
 
-[View code on Colab](https://colab.research.google.com/drive/1d_q0vUpgwmbN7imUcdsbuDwJ61OuBjvO?usp=sharing)
+[View code on Colab](https://colab.research.google.com/drive/1W340t4khS_h5PkLPbbk4xhF-xZJk5Fwo)
 
 ---
 
