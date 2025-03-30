@@ -13,10 +13,10 @@ redirect_from:
 
 ## Education
 
-* **MSc, Chemical Engineering, Bandung Institute of Technology** <span style="float: right;">Aug 2019 - Apr 2021</span><br>
+* **MSc Chemical Engineering, Bandung Institute of Technology** <span style="float: right;">Aug 2019 - Apr 2021</span><br>
   <span class='desc'>Thesis: Designing and Testing of Rotary Drum Semi-Pilot Scale Reactor For The Production of Hybrid Coal.</span><br>
   <span class='desc'>Supervised by Dr Dwiwahju Sasongko, Dr Winny Wulandari and Dr Jenny Rizkiana.</span><br>
-* **BSc Bioenergy and Chemurgical Engineering, Bandung Institute of Technology** <span style="float: right;">Aug 2010 - Jul 2014</span>\
+* **BSc Bioenergy and Chemurgical Engineering, Bandung Institute of Technology** <span style="float: right;">Aug 2015 - Jul 2019</span>\
   <span class='desc'>Thesis: Photoreduction of Carbon Dioxide to produce Formic Acid in Aquatic Phase via Photocatalytic Pathway.</span><br>
   <span class='desc'>Final project: Glicerol Rosin Ester Chemical Plant.</span>
 
@@ -27,7 +27,7 @@ redirect_from:
 * **Software Engineer**, Arkana Solusi Digital <span style="float: right;"> Jun 2023 - Current</span>
 * **System Analyst**, Bomba Grup <span style="float: right;"> Jun 2022 - Jun 2023</span>
 * **Associate Analyst**, Wilmar Consultancy Services <span style="float: right;"> Dec 2021 - Jun 2022</span>
-* **Research Engineer**, Bandung Institute of Technology <span style="float: right;"> Apr 2021 - Oct 2021</span>
+* **Research Assistant**, Bandung Institute of Technology <span style="float: right;"> Apr 2021 - Oct 2021</span>
 * **Process Engineer Intern**, Biomass Powerplant PLN <span style="float: right;"> Jun 2017 - Jul 2017</span>
 
 ## Awards
