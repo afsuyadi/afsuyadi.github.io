@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Al Fattah Suyadi / Research Engineer (AI for Chemical Engineering)"
+title: "Al Fattah Suyadi / Research Engineer"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
