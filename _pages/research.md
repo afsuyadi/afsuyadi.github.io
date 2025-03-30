@@ -44,6 +44,7 @@ Jobdesk : Analyzing experiment data that are obtained from PT PLN when co-firing
 ### Laboratorium Assistant Experience
 #### (2018)
 Module : Electrolysis of Water into Hydrogen
+
 Jobdesk : Supervised more than 50 students that are assigned to conduct this experiment.
 
 ### Laboratorium Experiment
