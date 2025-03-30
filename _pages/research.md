@@ -16,6 +16,9 @@ Field : Renewable Energy, Clean Fuel, Photocatalysis, Photoreduction, Hydrogen P
 
 Supervisor : [Dr. Jenny Rizkiana](https://scholar.google.co.id/citations?user=fpF0-o4AAAAJ&hl=en), [Dr. Hary Devianto](https://scholar.google.com/citations?user=IShCXkUAAAAJ&hl=en), [Dr. Ir. Tatang Hernas](https://www.researchgate.net/scientific-contributions/Tatang-Hernas-Soerawidjaja-2078816543)
 
+![Reactor Schema](/images/bachelor_thesis_experiment_scheme.png)
+![Photocatalyst Characterization](/images/bachelor_thesis_photocatalyst.png)
+
 
 ### Master Thesis Research
 #### (2020 - 2021)
@@ -24,6 +27,12 @@ Title : [Designing and Testing of Rotary Drum Semi-Pilot Scale Reactor For The P
 Field : Renewable Energy, Clean Fuel, Thermogravimetry, Coal Pyrolisis, Biomass Torrefaction
 
 Supervisor : [Dr. Dwiwahju Sasongko](https://scholar.google.com/citations?user=u9kZS2AAAAAJ&hl=en), [Dr. Winny Wulandari](https://scholar.google.co.id/citations?user=pmJKjcUAAAAJ&hl=en), [Dr. Jenny Rizkiana](https://scholar.google.co.id/citations?user=fpF0-o4AAAAJ&hl=en)
+
+![Rotary Drum Reactor Sketch](/images/master_thesis_rotary_drum_reactor_sketch.png)
+![Rotary Drum Reactor 3D](/images/master_thesis_rotary_drum_reactor_3d.png)
+![Rotary Drum Reactor](/images/master_thesis_rotary_drum_reactor.png)
+![Van Krevelen Diagram](/images/master_thesis_vankrevelen_diagram.png)
+![Combined Diagram](/images/master_thesis_combine_diagram.png)
 
 
 ### Research Assistant Experience
@@ -34,11 +43,15 @@ Supervisor : [Dr. Yogi Wibisono Budhi](https://scholar.google.com/citations?user
 
 Jobdesk : Building Photocatalytic Reactor for Carbon Dioxide Conversion into Formic Acid; Designing Membrane Reactor and Dry-Reforming Methane (DRM) Reactor using SolidWorks.
 
+![Nanobubble Reactor](/images/photocatalytic_nanobubble_reactor.jpg)
+
 Project #2 : Co-Firing Powerplant of Biomass and Coal to Produce Clean Fuel (Joint-Research Project of ITB and Mitsubishi Power)
 
 Supervisor : [Dr. Dwiwahju Sasongko](https://scholar.google.com/citations?user=u9kZS2AAAAAJ&hl=en), [Dr. Wibawa Hendra Saputra](https://scholar.google.com.au/citations?user=OlMjMsYAAAAJ&hl=en)
 
 Jobdesk : Analyzing experiment data that are obtained from PT PLN when co-firing coal and biomass in production and calculating the most optimal biomass percentage in order to produce highest energy.
+
+![Calculation Sheet](/images/research_scientist_project_2.png)
 
 
 ### Laboratorium Assistant Experience
