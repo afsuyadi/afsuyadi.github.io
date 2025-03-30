@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Al Fattah Suyadi"
   avatar           : "aji-hd.jpg"
-  bio              : "Data Scientist"
+  bio              : "Research Engineer"
   location         : "Indonesia"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=0Cyfqv4AAAAJ&hl=en&oi=ao"
-  email            :
+  googlescholar    : 
+  email            : "afsuyadi@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "afsuyadi"
+  twitter          :
   vine             :
   weibo            :
   xing             :
