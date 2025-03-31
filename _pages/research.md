@@ -16,9 +16,13 @@ Field : Renewable Energy, Clean Fuel, Photocatalysis, Photoreduction, Hydrogen P
 
 Supervisor : [Dr. Jenny Rizkiana](https://scholar.google.co.id/citations?user=fpF0-o4AAAAJ&hl=en), [Dr. Hary Devianto](https://scholar.google.com/citations?user=IShCXkUAAAAJ&hl=en), [Dr. Ir. Tatang Hernas](https://www.researchgate.net/scientific-contributions/Tatang-Hernas-Soerawidjaja-2078816543)
 
-![Reactor Schema](/images/bachelor_thesis_experiment_scheme.png)
+
 ![Photocatalyst Synthesis](/images/bachelor_thesis_photocatalyst_synthesis.jpg)
+
 ![Photocatalyst Characterization](/images/bachelor_thesis_photocatalyst.png)
+
+![Reactor Schema](/images/bachelor_thesis_experiment_scheme.png)
+
 ![Photoreactor](/images/bachelor_thesis_photoreactor.png)
 
 
