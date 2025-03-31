@@ -5,11 +5,11 @@ main:
   - title: "Research & Publication"
     url: /research/
 
-  - title: "Portfolio"
+  - title: "Portfolio & Project"
     url: /portfolio/
 
-  # - title: "Join"
-  #   url: /join/    
+  - title: "Learning & Certification"
+    url: /learning/    
 
   - title: "CV"
     url: /cv/    
