@@ -1,7 +1,7 @@
 ---
 layout: Learning & Certification
 title: "Learning & Certification"
-permalink: /learning.html
+permalink: /learning/
 author_profile: true
 redirect_from:
   - /learning
