@@ -4,7 +4,7 @@ title: "Learning & Certification"
 permalink: /learning/
 author_profile: true
 redirect_from:
-  - /resume
+  - /learning
 ---
 
 {% include base_path %}
