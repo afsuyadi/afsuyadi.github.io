@@ -1,7 +1,7 @@
 ---
 layout: Learning & Certification
 title: "Learning & Certification"
-permalink: /learning/
+permalink: /learning.html
 author_profile: true
 redirect_from:
   - /learning
@@ -19,4 +19,4 @@ redirect_from:
 * **[Programming For Everybody (Getting Started with Python) - University of Michigan](https://www.coursera.org/account/accomplishments/verify/XQ8FYBNQHL4P)** <span style="float: right;">Apr 2023</span><br>
 * **[Artificial Intelligence Virtual Experience - Cognizant](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Cognizant/5N2ygyhzMWjKQmgCK_Cognizant_reY7irrMNKTBjJBjg_1681637163860_completion_certificate.pdf)** <span style="float: right;">Apr 2023</span><br>
 * **[Bootcampt Data Analyst with Python & SQL - DQLab](https://academy.dqlab.id/certificate/pdf/DQLABBCAPSB1-23MDOWMH/TRACK)** <span style="float: right;">Jan 2023</span><br>
-* **[Python Data Science - Sanbercode](https://sanbercode.com/certificate/in/d13d2db6-6554-4dfd-8e9d-910b5ce5c221)** <span style="float: right;">Jul 2020</span>\
+* **[Python Data Science - Sanbercode](https://sanbercode.com/certificate/in/d13d2db6-6554-4dfd-8e9d-910b5ce5c221)** <span style="float: right;">Jul 2020</span><br>
