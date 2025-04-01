@@ -1,5 +1,4 @@
 ---
-layout: Learning & Certification
 title: "Learning & Certification"
 permalink: /learning.html
 author_profile: true
