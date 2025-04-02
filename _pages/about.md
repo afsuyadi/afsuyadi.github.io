@@ -54,6 +54,6 @@ By combining my expertise in chemical engineering and technical tools, I am comm
 
 # Research and Publication
 
-Suyadi, A. F.; Rizkiana, J.; Auliardi, D., Devianto, H.; Soerawidjaja, T. Photoreduction of Carbon Dioxide to produce Formic Acid in Aquatic Phase. Indo. J. Chem. Res. 2020, 8, 35-42. https://doi.org/10.30598/ijcr.2020.8-jen.
+Suyadi, A. F.; Rizkiana, J.; Auliardi, D., Devianto, H.; Soerawidjaja, T. Photoreduction of Carbon Dioxide to produce Formic Acid in Aquatic Phase. Indo. J. Chem. Res. 2020, 8, 35-42. [https://doi.org/10.30598/ijcr.2020.8-jen](https://doi.org/10.30598/ijcr.2020.8-jen).
 
-Suyadi, A. F. Designing and Testing of Rotary Drum Semi-Pilot Scale Reactor For The Production of Hybrid Coal. Chemical Engineering Department, 2021. https://digilib.itb.ac.id/gdl/view/54664/
+Suyadi, A. F. Designing and Testing of Rotary Drum Semi-Pilot Scale Reactor For The Production of Hybrid Coal. Chemical Engineering Department, 2021. [https://digilib.itb.ac.id/gdl/view/54664/](https://digilib.itb.ac.id/gdl/view/54664/).
