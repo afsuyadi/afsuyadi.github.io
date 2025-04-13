@@ -28,7 +28,7 @@ redirect_from:
 
 ## Working Experience
 
-* **Artificial Inteligence Intern**, RubyThalib Data Konsulta <span style="float: right;"> Jan 2025 - Current</span>
+* **Artificial Inteligence Engineer Intern**, RubyThalib Data Konsulta <span style="float: right;"> Jan 2025 - Current</span>
 * **Software Engineer**, Arkana Solusi Digital <span style="float: right;"> Jun 2023 - Current</span>
 * **System Analyst**, Bomba Grup <span style="float: right;"> Jun 2022 - Jun 2023</span>
 * **Associate Analyst**, Wilmar Consultancy Services <span style="float: right;"> Dec 2021 - Jun 2022</span>
