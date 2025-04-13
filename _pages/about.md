@@ -40,8 +40,8 @@ In addition to my research experience, I have strong technical skills in program
 By combining my expertise in chemical engineering and technical tools, I am committed to advancing AI-driven solutions for the energy sector.
 
 ### Work
- - **(2025 - current)** Artificial Inteligence Engineer (Intern), RubyThalib Data Konsulta
  - **(2023 - current)** Software Engineer, Arkana Solusi Digital
+ - **(2025)** Artificial Inteligence Engineer (Intern), RubyThalib Data Konsulta
  - **(2022 - 2023)** System Analyst, Bomba Grup
  - **(2021 - 2022)** Associate Analyst, Wilmar Consultancy Services
  - **(2020 - 2021)** Research Assistant, Bandung Institute of Technology
