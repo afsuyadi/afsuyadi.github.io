@@ -8,22 +8,27 @@ redirect_from:
 ---
 
 {% include base_path %}
-<p style="font-size: 2em; font-weight: bold;">Al Fattah Suyadi / Curriculum Vitae</p>
+<p style="font-size: 2em; font-weight: bold;">Al Fattah Suyadi - Curriculum Vitae</p>
 
-[afsuyadi@gmail.com](mailto:afsuyadi@gmail.com)
-
-[https://www.linkedin.com/in/afsuyadi/](https://www.linkedin.com/in/afsuyadi/)
+Email : [afsuyadi@gmail.com](mailto:afsuyadi@gmail.com)
+LinkedIn : [https://www.linkedin.com/in/afsuyadi/](https://www.linkedin.com/in/afsuyadi/)
+GitHub : [https://github.com/afsuyadi/](https://github.com/afsuyadi)
+Online Resume : [https://www.afsuyadi.github.io/](https://afsuyadi.github.io)
 
 ## Education
 
 * **MSc Chemical Engineering, Bandung Institute of Technology** <span style="float: right;">Aug 2019 - Apr 2021</span><br>
   <span class='desc'>[Thesis: Designing and Testing of Rotary Drum Semi-Pilot Scale Reactor For The Production of Hybrid Coal](https://digilib.itb.ac.id/gdl/view/54664/)</span><br>
   <span class='desc'>Supervised by Dr Dwiwahju Sasongko, Dr Winny Wulandari and Dr Jenny Rizkiana.</span><br>
-  <span class='desc'>GPA 3.71 out of 4.00</span><br>
 * **BSc Bioenergy and Chemurgical Engineering, Bandung Institute of Technology** <span style="float: right;">Aug 2015 - Jul 2019</span>\
   <span class='desc'>[Thesis: Photoreduction of Carbon Dioxide to produce Formic Acid in Aquatic Phase via Photocatalytic Pathway](https://doi.org/10.30598/ijcr.2020.8-jen)</span><br>
   <span class='desc'>Final project: Glicerol Rosin Ester Chemical Plant.</span><br>
-  <span class='desc'>GPA 3.17 out of 4.00</span><br>
+
+## Research and Publication
+
+Suyadi, A. F.; Rizkiana, J.; Auliardi, D., Devianto, H.; Soerawidjaja, T. Photoreduction of Carbon Dioxide to produce Formic Acid in Aquatic Phase. Indo. J. Chem. Res. 2020, 8, 35-42. [https://doi.org/10.30598/ijcr.2020.8-jen](https://doi.org/10.30598/ijcr.2020.8-jen).
+
+Suyadi, A. F. Designing and Testing of Rotary Drum Semi-Pilot Scale Reactor For The Production of Hybrid Coal. Chemical Engineering Department, 2021. [https://digilib.itb.ac.id/gdl/view/54664/](https://digilib.itb.ac.id/gdl/view/54664/).
 
 
 ## Working Experience
