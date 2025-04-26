@@ -11,8 +11,11 @@ redirect_from:
 <p style="font-size: 2em; font-weight: bold;">Al Fattah Suyadi - Curriculum Vitae</p>
 
 Email : [afsuyadi@gmail.com](mailto:afsuyadi@gmail.com)
+
 LinkedIn : [https://www.linkedin.com/in/afsuyadi/](https://www.linkedin.com/in/afsuyadi/)
+
 GitHub : [https://github.com/afsuyadi/](https://github.com/afsuyadi)
+
 Online Resume : [https://www.afsuyadi.github.io/](https://afsuyadi.github.io)
 
 ## Education
